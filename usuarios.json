@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "clave": "1234",
+        "rol": "admin"
+    },
+    "sebas": {
+        "clave": "12345",
+        "rol": "usuario"
+    }
+}
