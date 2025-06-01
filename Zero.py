@@ -180,7 +180,7 @@ if opcion == "Principal" or opcion == "Cerrar sesión":
     base = (
         "Zero es una inteligencia artificial avanzada diseñada para asistir a las personas..."
     )
-    client = OpenAI(api_key="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")
+    client = OpenAI(api_key="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")
 
     if "msg" not in st.session_state:
         # Mensaje inicial con bienvenida cálida personalizada
